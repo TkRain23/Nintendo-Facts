@@ -12,3 +12,7 @@ R.I.P Satoru Iwata
 <img src="https://github.com/TkRain23/Nintendo-Facts/blob/master/app/Screenshots/NintendoFacts_SS_1.jpg" width="325">
 <img src="https://github.com/TkRain23/Nintendo-Facts/blob/master/app/Screenshots/NintendoFacts_SS_2.jpg" width="325">
 
+Icon: Based of Nintendo's Gameboy Micro - Red Background (Nintendo Logo) -- Created in Sketch
+
+<img src="https://github.com/TkRain23/Nintendo-Facts/blob/master/app/Screenshots/NintendoFacts_Icon.png" width="250">
+
